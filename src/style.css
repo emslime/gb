@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #201E2F;
+  color: #FFF;
+  font-family: "Mate SC", serif;
+}
+
+.container {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #15141F;
+  border: 1px solid #FFF;
+  border-radius: 11px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+img {
+  max-width: 25%;
+  border-radius: 11px;
+  margin-bottom: 30px;
+  margin: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
